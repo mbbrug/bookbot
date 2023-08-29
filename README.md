@@ -1,2 +1,2 @@
 # bookbot
-Bookbot minor project
+Bookbot - a minor project for boot.dev work
